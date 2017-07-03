@@ -32,7 +32,7 @@ section.nth-of-type(odd) {
     text-shadow: 0 0 5px rgba(0,0,0,0.4); 
 }
 section:nth-child(1) { 
-    background-image: url(.._images/CapaSite.jpg); 
+    background-image: url(..https://github.com/MariaCapitolina/mariacapitolina.github.io/blob/master/_images/CapaSite.jpg); 
     background-position: center;
     
 }
